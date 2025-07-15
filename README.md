@@ -4,7 +4,7 @@ Hi, I’m Tuba Tasneem, a student specializing in translating complex datasets i
 
 # SQL Advanced Data Analyst Project
 
-## 🎯 Objective
+##  Objective
 
 The main goal of this project is to demonstrate how SQL can be used for in-depth analysis, complex aggregations, and predictive insights from a retail data warehouse. This includes product performance forecasting, customer segmentation, trend analysis, and business intelligence metrics.
 
